@@ -2,4 +2,4 @@
 
 Algunos avances de proyectos
 
-- (SLEUTH)[./books/sleuth/index.html]
+- [SLEUTH](https://sebastiandominguezc.github.io/reports/books/sleuth/index.html)
